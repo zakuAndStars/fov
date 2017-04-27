@@ -1,2 +1,2 @@
-# myblog
-blog
+# this is my first page
+index
